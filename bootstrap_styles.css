@@ -1,0 +1,27 @@
+.green{
+    color: green;
+}
+.italic{
+    font-style: italic;
+    color: darkslategray;
+}
+.bold{
+    font-style: bold;
+    color: darkslategray;
+}
+
+.greenie
+{
+    background-color:green;
+}
+a{
+    color: green
+}
+
+.bigger{
+
+    font-size: 20px;
+}
+.posttitle{
+    color:yellow
+}
